@@ -1,0 +1,303 @@
+    1  git clone https://github.com/osmomosm/financeresponsivewebsite.git
+    2  ls
+    3  git init
+    4  ls
+    5  git status
+    6  ls
+    7  vim index.html
+    8  cd C:\Users\91843\financeresponsivewebsite
+    9  cd c
+   10  cd d
+   11  ls
+   12  cd financerseponsivewebsite
+   13  cd C:\Users\91843\financeresponsivewebsite
+   14  cd financeresponsivewebsite
+   15  ls
+   16  vim index.html
+   17  ls
+   18  git status
+   19  git fetch
+   20  git push origin
+   21  git push origin
+   22  git commit
+   23  git config --global user.email "korishettyom@gmail.com"
+   24  git config --global user,name "om.korishetty"
+   25  git config --global user.name "om.korishetty"
+   26  git commit
+   27  git add index.html
+   28  git commit
+   29  git status
+   30  git push origin
+   31  git history
+   32  git log
+   33  git log f539a229fb858fae6d6149eb2d088acb1ad1c126
+   34  vim index.html
+   35  push index.html
+   36  git commit -m
+   37  git push origin
+   38  vim index.html
+   39  git status
+   40  git add index.html
+   41  git status
+   42  git commit
+   43  git status
+   44  git push origin
+   45  git clone https://github.com/osmomosm/Ashok.git
+   46  ls
+   47  cd Ashok
+   48  ls
+   49  vim index.html
+   50  git status
+   51  git add index.html
+   52  git status
+   53  git log
+   54  git commit
+   55  git push origin
+   56  vim index.html
+   57  git pull
+   58  git status
+   59  vim index.html
+   60  git status
+   61  git log
+   62  git show "hhh"
+   63  git show hhh
+   64  git show  a979194c86f90c1066cdcee0c7c8c10707d1be9f
+   65  git fetch
+   66  git fetch in index.html
+   67  git fetch index.html
+   68  git fetch Ashok
+   69  git fetch .
+   70  git fetch ./
+   71  git fetch origin
+   72  git fetch --all
+   73  clear
+   74  git clone https://github.com/osmomosm/praveen.git
+   75  ls
+   76  cd praveen
+   77  ls
+   78  git status
+   79  vim praveen.html
+   80  git status
+   81  git commit -a
+   82  git status
+   83  git log
+   84  git show nyc
+   85  git show "nyc"
+   86  git show
+   87  git pull origin
+   88  git push
+   89  git show d4710d6
+   90  git config
+   91  git status
+   92  git config
+   93  ls
+   94  cd Ashok
+   95  git init
+   96  git diff
+   97  git status
+   98  cd praveen
+   99  git init
+  100  git status
+  101  cd ..
+  102  git status
+  103  git add
+  104  git add .
+  105  git merge
+  106  cd..
+  107  cd ..
+  108  mkdir git demo
+  109  cd git demo
+  110  mkdir git_demo
+  111  cd git_demo
+  112  mkdir firstrepo
+  113  cd firstrepo
+  114  git init
+  115  git status
+  116  touch master.txt
+  117  start
+  118  notepad master.txt
+  119  git status
+  120  git add .
+  121  git status
+  122  git commit -m "This is my first git commit"
+  123  git status
+  124  git log
+  125  clear
+  126  touch master1.txt
+  127  notepad master1.txt
+  128  notepad master.txt
+  129  git status
+  130  git add .
+  131  git status
+  132  git commit -m "This is my second git commit"
+  133  git log
+  134  git remote add origin https://github.com/osmomosm/firstrepo.git
+  135  git remote -v
+  136  git push -u origin master
+  137  history
+  138  history > allcommands.txt
+  139  cat allcommands.txt
+  140  ls
+  141  cat allcommands.txt
+  142  git clone https://github.com/osmomosm/kj.git
+  143  ls
+  144  cd kj
+  145  touch pra.txt
+  146  vi pra.txt 
+  147  git status
+  148  git init
+  149  git add
+  150  git add .
+  151  git status
+  152  git commit
+  153  git show  cd8902c
+  154  ls
+  155  git pull origin
+  156  git push
+  157  git status
+  158  ipconfig
+  159  cd ..
+  160  cd ..
+  161  cd ..
+  162  cd ..
+  163  cd ..
+  164  ifconfig
+  165  ls
+  166  cd Ashok
+  167  git branch "new release"
+  168  git branch "new release"
+  169  git branch "new release"
+  170  git branch "new_release"
+  171  ls
+  172  git checkout new
+  173  git checkout new_release
+  174  ls
+  175  git pull
+  176   git branch --set-upstream-to=origin
+  177  git pull
+  178  git status
+  179  git push new_release
+  180  git push origin
+  181  ls
+  182  3
+  183  ll
+  184  ls -la
+  185  git branch
+  186  git push origin
+  187   git push origin HEAD
+  188  git branch second_release
+  189  git checkout second_release
+  190  git pull
+  191   git branch --set-upstream-to=origin
+  192  git pull
+  193  git push origin
+  194   git push origin HEAD:main
+  195   git push origin HEAD
+  196  gitk
+  197  ls
+  198  cd git_demo
+  199  ls
+  200  cd firstrepo
+  201  ls
+  202  cat master.txt
+  203  git branch new_branch
+  204  ls
+  205  git branch status
+  206  git name -rev
+  207  git branch
+  208  git branch -r
+  209  git version
+  210  git branch --show-current
+  211  ls
+  212  git pull
+  213  git pull
+  214  git push
+  215  git push origin
+  216  git push new_branch
+  217  git push origin -u new_branch
+  218  git show 5dc6286
+  219  git show b9e22718366f9351a8fda3cb6e69fcf33bd324df
+  220  git show b9e22718366f9351a8fda3cb6e69fcf33bd324df
+  221  cd ..
+  222  cd ..
+  223  ls
+  224  cd Ashok
+  225  git show b9e22718366f9351a8fda3cb6e69fcf33bd324df
+  226  exit
+  227  cd ..
+  228  cd ..
+  229  cd ..
+  230  cd ..
+  231  ls -la
+  232  rm .git
+  233  rmdir .git
+  234  rm git
+  235  rm -rf .git
+  236  ssh-keygen -t rsa -b 4096 -c "korishettyom@gmail.com"
+  237  ssh-keygen -t rsa -b 4096 -C "korishettyom@gmail.com"
+  238  ls -la
+  239  cd .ssh/
+  240  ls
+  241  cat id_rsa.pub
+  242  cd ..
+  243  ls -lrt
+  244  rm privaterepo/
+  245  rm -rf privaterepo/
+  246  ls -lrt
+  247  git clone git@github.com:osmomosm/privaterepo.git
+  248  history
+  249  history > sshcommands.txt
+  250  ls
+  251  exit
+  252  ls -la
+  253  cd .ssh/
+  254  ls -la
+  255  cat id_rsa.pub
+  256  git -r
+  257  git branch -r
+  258  ls
+  259  cd demo
+  260  cd ..
+  261  cd privaterepo/
+  262  git branch -r
+  263  git branch -a
+  264  git branch
+  265  ll
+  266  ls
+  267  cat sshcommands
+  268  cat sshcommands.txt
+  269  cat sshcommands.txt
+  270   ssh-keygen -t rsa -b 4096 -c "korishettyom@gmail.com"
+  271  ls
+  272  cd Ashok/
+  273  vim new
+  274  ls
+  275  rm praveen/
+  276  rm -rf praveen/
+  277  ls
+  278  git status
+  279  git -am "new"
+  280  git add -a -c "new"
+  281  git -a -commit "new"
+  282  git commit -am "new"
+  283  git add .
+  284  git status
+  285  git commit "new"
+  286  git status
+  287  git pull
+  288  git push second_release
+  289  git push origin
+  290  git push 
+  291  git status
+  292  git log
+  293  git log 2f71fb04e6030a79bb285f0150e01ac2c89174fd
+  294  ls
+  295  git push origin head
+  296  git pull
+  297  git show 8303012
+  298  git log --oneline --graph 
+  299  git branch
+  300  git reflog show main
+  301  ls
+  302  history
+  303  history > 14febcmds.txt
